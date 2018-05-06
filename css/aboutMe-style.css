@@ -1,0 +1,72 @@
+body{
+	background-color: #F5F5F5;
+	max-width: 1024px;
+	margin: auto;
+}
+
+h1{
+	color: #666666;
+}
+
+b i{
+	color:blue;
+}
+
+h2{
+	font-family: Georgia;
+	size:16px;
+	font-weight: 600;
+	font-style: normal;
+	font-variant: normal;
+}
+
+.semester{
+	color: white;
+	background-color: green;
+	padding: 5px 10px 8px 10px;
+}
+
+#imdb {
+	padding: 10px;
+	background-color: #E6E6E6;
+	display: inline-block;
+	margin: 10px;
+}
+
+#imdb a{
+	padding: 8px;
+	color: white;
+	background-color: gray;
+}
+
+.minion img{
+	height: 300px;
+}
+
+.happy, .sad{
+	width: 380px;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.minion p{
+	background-color: #fff;
+	width: 200px;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+p:first-letter{
+	font-size: 1.5em;
+}
+
+p{
+	font-size: 1em;
+}
